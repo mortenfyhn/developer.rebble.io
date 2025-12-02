@@ -47,6 +47,12 @@ sudo apt install python3-pip python3-venv nodejs npm libsdl1.2debian libfdt1
 sudo apt install libsdl1.2debian libfdt1
 ```
 
+#### Fedora
+
+```bash
+sudo dnf install python3-pip nodejs npm SDL-devel dtc
+```
+
 #### Windows
 
 The Pebble SDK does not run on Windows, but you can use WSL.  Install Ubuntu
