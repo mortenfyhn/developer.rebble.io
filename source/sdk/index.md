@@ -50,7 +50,7 @@ sudo apt install libsdl1.2debian libfdt1
 #### Fedora
 
 ```bash
-sudo dnf install python3-pip nodejs npm SDL-devel dtc
+sudo dnf install python3-pip nodejs SDL-devel dtc
 ```
 
 #### Windows
